@@ -1,0 +1,9 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:AkshaySangani/api-gateway.git
+[submodule "product-service"]
+	path = product-service
+	url = git@github.com:AkshaySangani/product-microservice.git
+[submodule "auth-service"]
+	path = auth-service
+	url = git@github.com:AkshaySangani/auth-microservice.git
