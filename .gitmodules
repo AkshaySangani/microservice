@@ -7,3 +7,6 @@
 [submodule "auth-service"]
 	path = auth-service
 	url = git@github.com:AkshaySangani/auth-microservice.git
+[submodule "shared-models"]
+	path = shared-models
+	url = git@github.com:AkshaySangani/shared-models.git
