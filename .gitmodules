@@ -10,3 +10,9 @@
 [submodule "shared-models"]
 	path = shared-models
 	url = git@github.com:AkshaySangani/shared-models.git
+[submodule "channel-microservice"]
+	path = channel-microservice
+	url = git@github.com:AkshaySangani/channel-microservice.git
+[submodule "channel-service"]
+	path = channel-service
+	url = git@github.com:AkshaySangani/channel-microservice.git
