@@ -16,3 +16,6 @@
 [submodule "channel-service"]
 	path = channel-service
 	url = git@github.com:AkshaySangani/channel-microservice.git
+[submodule "message-service"]
+	path = message-service
+	url = git@github.com:AkshaySangani/message-microservice.git
