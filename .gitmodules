@@ -19,3 +19,6 @@
 [submodule "message-service"]
 	path = message-service
 	url = https://github.com/AkshaySangani/message-microservice.git
+[submodule "payment-service"]
+	path = payment-service
+	url = https://github.com/AkshaySangani/payment-service.git
