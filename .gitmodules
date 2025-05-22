@@ -1,24 +1,31 @@
 [submodule "api-gateway"]
 	path = api-gateway
-	url = https://github.com/AkshaySangani/api-gateway.git
+	url = git@github.com:AkshaySangani/api-gateway.git
+
 [submodule "product-service"]
 	path = product-service
-	url = https://github.com/AkshaySangani/product-microservice.git
+	url = git@github.com:AkshaySangani/product-microservice.git
+
 [submodule "auth-service"]
 	path = auth-service
-	url = https://github.com/AkshaySangani/auth-microservice.git
+	url = git@github.com:AkshaySangani/auth-microservice.git
+
 [submodule "shared-models"]
 	path = shared-models
-	url = https://github.com/AkshaySangani/shared-models.git
+	url = git@github.com:AkshaySangani/shared-models.git
+
 [submodule "channel-microservice"]
 	path = channel-microservice
-	url = https://github.com/AkshaySangani/channel-microservice.git
+	url = git@github.com:AkshaySangani/channel-microservice.git
+
 [submodule "channel-service"]
 	path = channel-service
-	url = https://github.com/AkshaySangani/channel-microservice.git
+	url = git@github.com:AkshaySangani/channel-microservice.git
+
 [submodule "message-service"]
 	path = message-service
-	url = https://github.com/AkshaySangani/message-microservice.git
+	url = git@github.com:AkshaySangani/message-microservice.git
+
 [submodule "payment-service"]
 	path = payment-service
-	url = https://github.com/AkshaySangani/payment-service.git
+	url = git@github.com:AkshaySangani/payment-service.git
